@@ -1,6 +1,6 @@
-# OpenClaw Deployments
+# OpenClaw Turnball
 
-This repository contains configurations, customizations, and deployment scripts for OpenClaw installations across multiple workstations.
+This repository contains configurations, customizations, and deployment scripts for OpenClaw installations across multiple workstations. This project tracks our OpenClaw implementation and serves as a central place to manage configurations, custom skills, and deployment procedures.
 
 ## Overview
 
