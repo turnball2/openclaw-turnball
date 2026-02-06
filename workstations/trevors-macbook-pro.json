@@ -1,0 +1,30 @@
+{
+  "name": "Trevor's MacBook Pro (2)",
+  "hostname": "Trevors-MacBook-Pro-2.local",
+  "os": "Darwin 25.2.0 (arm64)",
+  "timezone": "America/Denver",
+  "openclaw": {
+    "version": "latest",
+    "install_path": "/usr/local/lib/node_modules/openclaw",
+    "workspace": "/Users/bturner/.openclaw/workspace",
+    "config": "/Users/bturner/.openclaw/config.json",
+    "startup": "systemd"  // or launchd on macOS
+  },
+  "skills": [
+    "web-search",
+    "github",
+    "gog",
+    "healthcheck",
+    "summarize",
+    "weather",
+    "code-explainer"
+  ],
+  "customizations": {
+    "name": "Akkeri",
+    "persona": "Anchor - steady, reliable, helpful without being intrusive",
+    "owner_name": "turnball",
+    "timezone": "America/Denver"
+  },
+  "deployment_date": "2026-02-06",
+  "notes": "Primary development workstation with full access to external systems"
+}
