@@ -1,5 +1,7 @@
 # OpenClaw Turnball
 
+Repository: [turnball2/openclaw-turnball](https://github.com/turnball2/openclaw-turnball)
+
 This repository contains configurations, customizations, and deployment scripts for OpenClaw installations across multiple workstations. This project tracks our OpenClaw implementation and serves as a central place to manage configurations, custom skills, and deployment procedures.
 
 ## Overview
