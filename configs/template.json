@@ -1,0 +1,30 @@
+# OpenClaw Configuration Template
+
+# This is a template configuration for OpenClaw deployments
+# Customize this file for each workstation
+
+{
+  "server": {
+    "port": 3000,
+    "host": "localhost"
+  },
+  "skills": {
+    "enabled": [
+      "web-search",
+      "github",
+      "gog",
+      "healthcheck",
+      "summarize",
+      "weather"
+    ]
+  },
+  "channels": {
+    "webchat": {
+      "enabled": true
+    }
+  },
+  "models": {
+    "default": "qwen-portal/coder-model"
+  },
+  "workspace": "/Users/bturner/.openclaw/workspace"
+}
